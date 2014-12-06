@@ -21,7 +21,7 @@ SELECT * FROM foo
 WHERE n > 1;
 ```
 
-Call it `myawesomesql.sql`. Now, using
+Call it `example.sql`. Now, using
 [httpie](https://github.com/jakubroztocil/httpie), we can test it out:
 
 ```
